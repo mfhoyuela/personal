@@ -1,8 +1,7 @@
-<a href="http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/" target="_blank"><img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/Responsive-HTML5-Resume-CV-Template-for-Developers.png" alt="Responsive Resume/CV Template for Developers" /></a>
 
 ##Theme Details & Demo
 
-**Demo:** http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/
+Plantilla seleccionada de bootstrap.
 
 Orbit is a free resume/CV template designed for developers. Looking to **impress your potential employer**? Get this template and you can **send an online resume/CV** instead of a word/pdf attachment. You can **easily make different versions of your online resume/CV** to tailor for different job positions too. 
 
